@@ -1,0 +1,33 @@
+button{
+    background-color : gray;
+    color : black;
+    border : 1px;
+    border-radius : 4px;
+    padding : 8px 16 px;
+    margin : 6x 4x;
+    cursor : pointer;
+    button: hover{
+    width : 100px;
+    height : 40px;
+    background-color : blue;
+
+    }
+
+
+
+}
+input[type = text]{
+   width : 30%;
+   border : 2px solid black;
+   border-radius: 4px;
+   padding : 8px 16px;
+}
+
+body{
+  text-align: center;
+
+ }
+
+ .resultTable{
+ display: inline-block;
+ }
